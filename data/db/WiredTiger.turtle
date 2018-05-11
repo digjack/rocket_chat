@@ -1,0 +1,6 @@
+WiredTiger version string
+WiredTiger 2.9.2: (December 23, 2016)
+WiredTiger version
+major=2,minor=9,patch=2
+file:WiredTiger.wt
+access_pattern_hint=none,allocation_size=4KB,app_metadata=,block_allocation=best,block_compressor=,cache_resident=false,checkpoint=(WiredTigerCheckpoint.48268=(addr="019181e462e14c169281e49595d8d79381e4d3e3029a808080e30b0fc0e305bfc0",order=48268,time=1526004068,size=389120,write_gen=197975)),checkpoint_lsn=(133,2960256),checksum=uncompressed,collator=,columns=,dictionary=0,encryption=(keyid=,name=),format=btree,huffman_key=,huffman_value=,id=0,ignore_in_memory_cache_size=false,internal_item_max=0,internal_key_max=0,internal_key_truncate=true,internal_page_max=4KB,key_format=S,key_gap=10,leaf_item_max=0,leaf_key_max=0,leaf_page_max=32KB,leaf_value_max=0,log=(enabled=true),memory_page_max=5MB,os_cache_dirty_max=0,os_cache_max=0,prefix_compression=false,prefix_compression_min=4,split_deepen_min_child=0,split_deepen_per_child=0,split_pct=90,value_format=S,version=(major=1,minor=1)
